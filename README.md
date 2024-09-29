@@ -6,36 +6,28 @@
 1. **Clone repository pada local anda dengan cara berikut:**
    - Klik tombol **Code** seperti yang ditunjukkan di bawah.
    
-    ![Gambar](img/IMG_20240929_173205.jpg)
    
    - Klik **Download ZIP**.
 
-   ![Gambar Download ZIP](img/IMG_20240929_173243.jpg)
 
    - Pilih lokasi penyimpanan yang diinginkan untuk file ZIP ini.
 
-   ![Gambar Pilih Lokasi](img/IMG_20240929_173316.jpg)
 
 2. **Extract file ZIP:**
    - Setelah selesai mendownload, extract file ZIP tersebut.
    - Setelah selesai, buka folder hasil extract.
 
-   ![Gambar Extract](img/Screenshot 2024-09-29 171912.png)
 
 3. **Masuk ke folder proyek:**
    - Masuk lagi ke folder `iwp-main` seperti yang ditunjukkan pada gambar di bawah.
 
-   ![Gambar iwp-main](img/Screenshot 2024-09-29 171954.png)
-
 4. **Buka file `index.html`:**
    - Setelah masuk ke folder, buka file `index.html` menggunakan browser untuk mulai menjalankan website.
 
-   ![Gambar Buka index.html](img/Screenshot 2024-09-29 172138.png)
 
 5. **Website berhasil dijalankan:**
    - Sekarang website sudah mulai berjalan.
 
-   ![Gambar Website Running](Screenshot 2024-09-29 172319.png)
 
 > **Catatan:**
 > Pastikan koneksi internet anda aktif untuk mengakses gambar yang di-host melalui URL internet.
@@ -49,9 +41,8 @@ Terdapat tombol navigasi (ikon 3 baris) pada pojok kanan atas di semua halaman p
 ---
 
 ### Halaman Beranda:
-![Gambar Beranda](#)
 
-Ini adalah tampilan halaman beranda. Klik tombol `Buat Reservasi` di pojok kanan atas untuk mulai proses pemesanan meja di restoran **Indo Waroeng Prasmanan**. Setelah masuk, ikuti langkah-langkah proses pemesanan sampai selesai. 
+Pada tampilan halaman beranda. Klik tombol `Buat Reservasi` di pojok kanan atas untuk mulai proses pemesanan meja di restoran **Indo Waroeng Prasmanan**. Setelah masuk, ikuti langkah-langkah proses pemesanan sampai selesai. 
 
 Terdapat 3 card di tengah halaman: `Restaurant`, `Fast Delivery`, dan `Catering`:
 - **Klik card `Restaurant`** untuk menuju ke halaman restaurant, di mana tersedia informasi lebih lengkap tentang **Indo Waroeng Prasmanan**. Anda juga bisa melakukan reservasi di sana.
@@ -61,11 +52,8 @@ Terdapat 3 card di tengah halaman: `Restaurant`, `Fast Delivery`, dan `Catering`
 ---
 
 ### Halaman `Restaurant`:
-![Gambar Halaman Restaurant](#)
-
 Saat halaman ini dibuka pertama kali, akan tersedia tombol **Reservasi Sekarang** untuk mulai pemesanan meja di restoran **Indo Waroeng Prasmanan**.
 
-![Gambar Tombol Reservasi](#)
 
 Scroll ke bawah untuk melihat keseluruhan halaman `Restaurant`.
 
