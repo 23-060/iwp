@@ -6,11 +6,11 @@
 1. **Clone repository pada local anda dengan cara berikut:**
    - Klik tombol **Code** seperti yang ditunjukkan di bawah.
    
-   ![Gambar Code](#) <!-- Tambahkan link gambar di sini -->
+    <!-- Tambahkan link gambar di sini -->
    
    - Klik **Download ZIP**.
 
-   ![Gambar Download ZIP](#)
+   ![Gambar Download ZIP](img/IMG_20240929_173205.jpg)
 
    - Pilih lokasi penyimpanan yang diinginkan untuk file ZIP ini.
 
