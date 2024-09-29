@@ -6,36 +6,36 @@
 1. **Clone repository pada local anda dengan cara berikut:**
    - Klik tombol **Code** seperti yang ditunjukkan di bawah.
    
-    <!-- Tambahkan link gambar di sini -->
+    ![Gambar](img/IMG_20240929_173205.jpg)
    
    - Klik **Download ZIP**.
 
-   ![Gambar Download ZIP](img/IMG_20240929_173205.jpg)
+   ![Gambar Download ZIP](img/IMG_20240929_173243.jpg)
 
    - Pilih lokasi penyimpanan yang diinginkan untuk file ZIP ini.
 
-   ![Gambar Pilih Lokasi](#)
+   ![Gambar Pilih Lokasi](img/IMG_20240929_173316.jpg)
 
 2. **Extract file ZIP:**
    - Setelah selesai mendownload, extract file ZIP tersebut.
    - Setelah selesai, buka folder hasil extract.
 
-   ![Gambar Extract](#)
+   ![Gambar Extract](img/Screenshot 2024-09-29 171912.png)
 
 3. **Masuk ke folder proyek:**
    - Masuk lagi ke folder `iwp-main` seperti yang ditunjukkan pada gambar di bawah.
 
-   ![Gambar iwp-main](#)
+   ![Gambar iwp-main](img/Screenshot 2024-09-29 171954.png)
 
 4. **Buka file `index.html`:**
    - Setelah masuk ke folder, buka file `index.html` menggunakan browser untuk mulai menjalankan website.
 
-   ![Gambar Buka index.html](#)
+   ![Gambar Buka index.html](img/Screenshot 2024-09-29 172138.png)
 
 5. **Website berhasil dijalankan:**
    - Sekarang website sudah mulai berjalan.
 
-   ![Gambar Website Running](#)
+   ![Gambar Website Running](Screenshot 2024-09-29 172319.png)
 
 > **Catatan:**
 > Pastikan koneksi internet anda aktif untuk mengakses gambar yang di-host melalui URL internet.
