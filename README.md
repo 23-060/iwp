@@ -71,6 +71,6 @@ Setelah dibuka, halaman ini menampilkan informasi tentang **Indo Waroeng Prasman
 
 ### Halaman Fast Delivery
 Anda bisa menambahkan kekeranjang, mereset keranjang, mulai check out keranjang, beli sekarang langsung dan lain lain
-Halaman Prasmanan
+### Halaman Prasmanan
 pada halaman fast delivery ada tombol prasmanan di keranjang dan di halaman ini yang sebelah atas, pada prasmanan anda bisa memesan makanan dengan cara prasamanan
 
